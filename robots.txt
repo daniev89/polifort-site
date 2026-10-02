@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://poly-fort.ru/sitemap.xml
